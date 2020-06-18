@@ -17,7 +17,7 @@ h6 {
 }
 .banner {
   height: 100vh;
-  position: fixed;
+  position: relative;
   width: auto;
   margin-top: 0px;
 }
